@@ -1,0 +1,13 @@
+---
+- title: Ultima VII - The Black Gate
+  publisher: Origin Systems
+  year: 1992
+  artwork: 'https://upload.wikimedia.org/wikipedia/en/b/b3/Ultima_VII_Black_Gate_box.jpg'
+  os: msdos622
+  drivers:
+    - himem
+    - mouse
+    - smartdrv
+  game: 'https://repo.area536.com/games/ultima71.zip'
+  size: 42000000
+  shortname: ULTIMA7
